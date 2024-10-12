@@ -1,6 +1,4 @@
-# ÍNDICE
 
-- [ÍNDICE](#índice)
 - [Práctica 2](#práctica-2)
     - [Athor: Rimsha](#athor-rimsha)
     - [Fecha: 10-10-2024](#fecha-10-10-2024)
@@ -10,6 +8,8 @@
     - [\*\* Configuración de debían 12 dhcp server \*\*](#-configuración-de-debían-12-dhcp-server-)
     - [\*\* Configuración de Ubuntu \*\*](#-configuración-de-ubuntu)
     - [**Configuraciones en Windows 10**](#configuraciones-en-windows-10)
+
+
 
 # Práctica 2
 ### Athor: Rimsha
